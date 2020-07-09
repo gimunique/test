@@ -7,3 +7,16 @@
 <https://codesandbox.io/>
 
 <https://codepen.io/>
+
+### 테스트 코디가 필요한 이유
+https://joshua1988.github.io/vue-camp/testing/overview.html
+
+### Vue/CLI unit-jest 설치 방법
+https://cli.vuejs.org/core-plugins/unit-jest.html#injected-commands
+
+https://joshua1988.github.io/vue-camp/testing/vue-test-util.html
+
+### Jest 소개
+https://joshua1988.github.io/vue-camp/testing/jest-testing.html#jest-%EC%86%8C%EA%B0%9C
+
+
