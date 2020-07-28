@@ -1,1 +1,21 @@
-git test
+1. 새로운 저장소 만들기
+해당 폴더에 git bash 열고, git init
+-> .git 폴더 생김
+
+2. 원격 서버의 저장소 복제
+git clone https://github.com/gimunique/test.git
+
+3. 현재 디렉토리의 변경 사항 stage에 올리기
+1) 변경된 모든 파일: git add . or git add *
+2) 특정 파일: git add 파일 이름
+
+4. 커밋
+git commit -m '변경 사항 적기'
+명령어 중 -m 부분을 안적으면, vim(내장 편집기) 실행되니 주의
+
+5. 변경된 내용 발행
+git push -u origin master
+-u는 원격저장소로부터 업데이트를 받은 후 push를 한다는 의미로 습관적으로 -u 사용을 권장.
+
+6. 변경 될 때 마다 할 일
+pull -> commit -> push
