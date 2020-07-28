@@ -8,7 +8,7 @@
 
 <https://codepen.io/>
 
-### 테스트 코디가 필요한 이유
+### 테스트 코드가 필요한 이유
 https://joshua1988.github.io/vue-camp/testing/overview.html
 
 ### Vue/CLI unit-jest 설치 방법
