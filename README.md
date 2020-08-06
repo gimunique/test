@@ -6,18 +6,18 @@ https://blog.naver.com/mgveg/222031881408
 
 Vue CLI에선 기본적으로 모드 설정이 되어 있고, 3개의 모드가 있다.
 
->>>+ development
->>>+ production
->>>+ text
+>+ development
+>+ production
+>+ text
 
-환경 변수들은 process.env에 정의되어 있다. (환경 변수: 실행 모드에 따라 선택되는 변수.)
+환경 변수들은 **process.env**에 정의되어 있다. (환경 변수: 실행 모드에 따라 선택되는 변수.)
 
 기본적으로 2개의 환경변수 NODE_ENV, BASE_URL가 있다. 
 
->>>+ NODE_ENV: 앱이 실행되는 모드. 3개의 기본 모드 "development", "production", "test"가 있다.
->>>+ BASE_URL: vue.config.js의 publicPath 옵션에 해당하고 앱이 배포되는 기본 경로
+>+ NODE_ENV: 앱이 실행되는 모드. 3개의 기본 모드 "development", "production", "test"가 있다.
+>+ BASE_URL: vue.config.js의 publicPath 옵션에 해당하고 앱이 배포되는 기본 경로
 
-그리고 루트 디렉토리에 ".env.local" 파일을 만들어, 사용자가 정의한 변수를 추가할 수 있습니다.
+그리고 루트 디렉토리에 **".env.local"** 파일을 만들어, 사용자가 정의한 변수를 추가할 수 있습니다.
 
 ### Vue Router
 
@@ -27,7 +27,9 @@ https://blog.naver.com/mgveg/221920917734
 
 https://blog.naver.com/mgveg/222052235513
 
+
 -----
+
 
 ### Vue에서 컴포넌트 템플릿을 정의하는 7가지 방법
 
