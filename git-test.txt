@@ -19,3 +19,9 @@ git push -u origin master
 
 6. 변경 될 때 마다 할 일
 pull -> commit -> push
+
+7. 상태 확인
+git status
+
+8. log 확인
+git log
