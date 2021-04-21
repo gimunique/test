@@ -25,3 +25,6 @@ git status
 
 8. log 확인
 git log
+
+* 복사하기: Ctrl + Insert
+* 붙여넣기: Shift + Insert
