@@ -26,5 +26,8 @@ git status
 8. log 확인
 git log
 
+9. 저장소에 파일 올리기
+git remote add origin https://github.com/gimunique/test.git
+
 * 복사하기: Ctrl + Insert
 * 붙여넣기: Shift + Insert
