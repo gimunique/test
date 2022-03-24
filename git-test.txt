@@ -29,5 +29,8 @@ git log
 9. 저장소에 파일 올리기
 git remote add origin https://github.com/gimunique/test.git
 
-* 복사하기: Ctrl + Insert
-* 붙여넣기: Shift + Insert
+10. 저장소에서 파일 가져오기
+git pull origin master
+
+commad창 복사하기: Ctrl + Insert
+commad창 붙여넣기: Shift + Insert
